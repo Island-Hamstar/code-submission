@@ -1,0 +1,307 @@
+startDate,policyType,name,location.id
+2020-03-16T00:00:00Z,C1, School closing,Austria
+2020-03-12T00:00:00Z,C2, Workplace closing,Austria
+2020-03-16T00:00:00Z,C3, Cancel public events,Austria
+2020-03-16T00:00:00Z,C4, Restrictions on gatherings,Austria
+2020-03-13T00:00:00Z,C5, Close public transport,Austria
+2020-03-16T00:00:00Z,C6, Stay at home requirements,Austria
+2020-05-22T00:00:00Z,C7, Restrictions on internal movement,Austria
+2020-10-27T00:00:00Z,E1, Income support,Austria
+2020-03-14T00:00:00Z,C1, School closing,Belgium
+2020-03-14T00:00:00Z,C2, Workplace closing,Belgium
+2020-03-10T00:00:00Z,C3, Cancel public events,Belgium
+2020-03-18T00:00:00Z,C4, Restrictions on gatherings,Belgium
+2020-03-18T00:00:00Z,C6, Stay at home requirements,Belgium
+2020-03-14T00:00:00Z,C7, Restrictions on internal movement,Belgium
+2020-10-23T00:00:00Z,E1, Income support,Belgium
+2020-03-13T00:00:00Z,C1, School closing,Denmark
+2020-03-18T00:00:00Z,C2, Workplace closing,Denmark
+2020-03-06T00:00:00Z,C3, Cancel public events,Denmark
+2020-03-16T00:00:00Z,C4, Restrictions on gatherings,Denmark
+2020-03-10T00:00:00Z,C5, Close public transport,Denmark
+2020-03-13T00:00:00Z,C6, Stay at home requirements,Denmark
+2020-03-16T00:00:00Z,C1, School closing,Finland
+2020-03-16T00:00:00Z,C2, Workplace closing,Finland
+2020-03-12T00:00:00Z,C3, Cancel public events,Finland
+2020-03-12T00:00:00Z,C4, Restrictions on gatherings,Finland
+2020-03-16T00:00:00Z,C6, Stay at home requirements,Finland
+2020-03-16T00:00:00Z,C7, Restrictions on internal movement,Finland
+2020-03-16T00:00:00Z,E1, Income support,Finland
+2020-03-16T00:00:00Z,E2, Debt/contract relief,Austria
+2020-03-06T00:00:00Z,E2, Debt/contract relief,Belgium
+2020-04-18T00:00:00Z,E2, Debt/contract relief,Denmark
+2020-06-05T00:00:00Z,E2, Debt/contract relief,Finland
+2020-03-16T00:00:00Z,C1, School closing,France
+2020-04-06T00:00:00Z,C2, Workplace closing,France
+2020-03-13T00:00:00Z,C3, Cancel public events,France
+2020-03-17T00:00:00Z,C4, Restrictions on gatherings,France
+2020-03-16T00:00:00Z,C5, Close public transport,France
+2020-03-17T00:00:00Z,C6, Stay at home requirements,France
+2020-03-17T00:00:00Z,C7, Restrictions on internal movement,France
+2020-03-16T00:00:00Z,E1, Income support,France
+2020-03-16T00:00:00Z,E2, Debt/contract relief,France
+2020-03-18T00:00:00Z,C1, School closing,Germany
+2020-03-22T00:00:00Z,C2, Workplace closing,Germany
+2020-03-20T00:00:00Z,C3, Cancel public events,Germany
+2020-03-22T00:00:00Z,C4, Restrictions on gatherings,Germany
+2020-04-22T00:00:00Z,C5, Close public transport,Germany
+2020-03-09T00:00:00Z,C6, Stay at home requirements,Germany
+2020-03-18T00:00:00Z,C7, Restrictions on internal movement,Germany
+2020-03-16T00:00:00Z,E1, Income support,Germany
+2020-03-23T00:00:00Z,E2, Debt/contract relief,Germany
+2020-03-10T00:00:00Z,C1, School closing,Greece
+2020-03-18T00:00:00Z,C2, Workplace closing,Greece
+2020-03-18T00:00:00Z,C3, Cancel public events,Greece
+2020-03-18T00:00:00Z,C4, Restrictions on gatherings,Greece
+2020-03-14T00:00:00Z,C5, Close public transport,Greece
+2020-03-23T00:00:00Z,C6, Stay at home requirements,Greece
+2020-03-23T00:00:00Z,C7, Restrictions on internal movement,Greece
+2020-03-25T00:00:00Z,E1, Income support,Greece
+2020-03-25T00:00:00Z,E2, Debt/contract relief,Greece
+2020-03-04T00:00:00Z,C1, School closing,Italy
+2020-03-10T00:00:00Z,C2, Workplace closing,Italy
+2020-03-10T00:00:00Z,C3, Cancel public events,Italy
+2020-03-10T00:00:00Z,C4, Restrictions on gatherings,Italy
+2020-03-20T00:00:00Z,C5, Close public transport,Italy
+2020-03-10T00:00:00Z,C6, Stay at home requirements,Italy
+2020-03-10T00:00:00Z,C7, Restrictions on internal movement,Italy
+2020-05-19T00:00:00Z,E1, Income support,Italy
+2020-05-16T00:00:00Z,E2, Debt/contract relief,Italy
+2020-03-16T00:00:00Z,C1, School closing,Netherlands
+2020-03-15T00:00:00Z,C2, Workplace closing,Netherlands
+2020-03-23T00:00:00Z,C3, Cancel public events,Netherlands
+2020-03-12T00:00:00Z,C4, Restrictions on gatherings,Netherlands
+2020-03-31T00:00:00Z,C5, Close public transport,Netherlands
+2020-03-23T00:00:00Z,C6, Stay at home requirements,Netherlands
+2020-03-15T00:00:00Z,C7, Restrictions on internal movement,Netherlands
+2020-03-17T00:00:00Z,E1, Income support,Netherlands
+2020-03-28T00:00:00Z,E2, Debt/contract relief,Netherlands
+2020-03-12T00:00:00Z,C1, School closing,Norway
+2020-03-12T00:00:00Z,C2, Workplace closing,Norway
+2020-03-12T00:00:00Z,C3, Cancel public events,Norway
+2020-03-24T00:00:00Z,C4, Restrictions on gatherings,Norway
+2020-03-12T00:00:00Z,C5, Close public transport,Norway
+2020-04-30T00:00:00Z,C6, Stay at home requirements,Norway
+2020-03-19T00:00:00Z,C7, Restrictions on internal movement,Norway
+2020-03-20T00:00:00Z,E1, Income support,Norway
+2020-03-13T00:00:00Z,E2, Debt/contract relief,Norway
+2020-03-16T00:00:00Z,C1, School closing,Portugal
+2020-03-19T00:00:00Z,C2, Workplace closing,Portugal
+2020-03-19T00:00:00Z,C3, Cancel public events,Portugal
+2020-05-18T00:00:00Z,C4, Restrictions on gatherings,Portugal
+2020-03-19T00:00:00Z,C5, Close public transport,Portugal
+2020-03-19T00:00:00Z,C6, Stay at home requirements,Portugal
+2020-03-19T00:00:00Z,C7, Restrictions on internal movement,Portugal
+2020-03-13T00:00:00Z,E1, Income support,Portugal
+2020-03-09T00:00:00Z,E2, Debt/contract relief,Portugal
+2020-03-19T00:00:00Z,C1, School closing,Russia
+2020-03-30T00:00:00Z,C2, Workplace closing,Russia
+2020-05-05T00:00:00Z,C3, Cancel public events,Russia
+2020-03-30T00:00:00Z,C4, Restrictions on gatherings,Russia
+2020-03-24T00:00:00Z,C7, Restrictions on internal movement,Russia
+2020-04-01T00:00:00Z,E1, Income support,Russia
+2020-04-01T00:00:00Z,E2, Debt/contract relief,Russia
+2020-03-18T00:00:00Z,C1, School closing,SouthAfrica
+2020-03-26T00:00:00Z,C2, Workplace closing,SouthAfrica
+2020-03-26T00:00:00Z,C3, Cancel public events,SouthAfrica
+2020-03-26T00:00:00Z,C4, Restrictions on gatherings,SouthAfrica
+2020-03-26T00:00:00Z,C5, Close public transport,SouthAfrica
+2020-03-26T00:00:00Z,C6, Stay at home requirements,SouthAfrica
+2020-03-26T00:00:00Z,C7, Restrictions on internal movement,SouthAfrica
+2020-04-21T00:00:00Z,E1, Income support,SouthAfrica
+2020-04-21T00:00:00Z,E2, Debt/contract relief,SouthAfrica
+2020-03-16T00:00:00Z,C1, School closing,Spain
+2020-03-14T00:00:00Z,C2, Workplace closing,Spain
+2020-03-14T00:00:00Z,C3, Cancel public events,Spain
+2020-05-13T00:00:00Z,C4, Restrictions on gatherings,Spain
+2020-03-14T00:00:00Z,C5, Close public transport,Spain
+2020-03-14T00:00:00Z,C6, Stay at home requirements,Spain
+2020-03-14T00:00:00Z,C7, Restrictions on internal movement,Spain
+2020-05-04T00:00:00Z,E1, Income support,Spain
+2020-03-17T00:00:00Z,E2, Debt/contract relief,Spain
+2020-03-18T00:00:00Z,C1, School closing,Sweden
+2020-04-04T00:00:00Z,C2, Workplace closing,Sweden
+2020-04-01T00:00:00Z,C3, Cancel public events,Sweden
+2020-03-29T00:00:00Z,C4, Restrictions on gatherings,Sweden
+2020-04-14T00:00:00Z,C5, Close public transport,Sweden
+2020-04-24T00:00:00Z,C6, Stay at home requirements,Sweden
+2020-04-04T00:00:00Z,C7, Restrictions on internal movement,Sweden
+2020-05-13T00:00:00Z,E1, Income support,Sweden
+2020-03-16T00:00:00Z,E2, Debt/contract relief,Sweden
+2020-03-13T00:00:00Z,C1, School closing,Switzerland
+2020-03-17T00:00:00Z,C2, Workplace closing,Switzerland
+2020-06-06T00:00:00Z,C3, Cancel public events,Switzerland
+2020-02-28T00:00:00Z,C3, Cancel public events,Switzerland
+2020-03-17T00:00:00Z,C4, Restrictions on gatherings,Switzerland
+2020-03-13T00:00:00Z,C5, Close public transport,Switzerland
+2020-03-17T00:00:00Z,C6, Stay at home requirements,Switzerland
+2020-03-20T00:00:00Z,E1, Income support,Switzerland
+2020-03-19T00:00:00Z,E2, Debt/contract relief,Switzerland
+2020-03-17T00:00:00Z,C7, Restrictions on internal movement,Switzerland
+2020-03-16T00:00:00Z,C1, School closing,Turkey
+2020-03-22T00:00:00Z,C2, Workplace closing,Turkey
+2020-03-16T00:00:00Z,C3, Cancel public events,Turkey
+2020-08-18T00:00:00Z,C4, Restrictions on gatherings,Turkey
+2020-03-24T00:00:00Z,C5, Close public transport,Turkey
+2020-04-20T00:00:00Z,C6, Stay at home requirements,Turkey
+2020-03-28T00:00:00Z,C7, Restrictions on internal movement,Turkey
+2020-06-01T00:00:00Z,E1, Income support,Turkey
+2020-06-01T00:00:00Z,E2, Debt/contract relief,Turkey
+2020-03-23T00:00:00Z,C1, School closing,UnitedKingdom
+2020-03-26T00:00:00Z,C2, Workplace closing,UnitedKingdom
+2020-03-21T00:00:00Z,C3, Cancel public events,UnitedKingdom
+2020-03-23T00:00:00Z,C4, Restrictions on gatherings,UnitedKingdom
+2020-03-20T00:00:00Z,C5, Close public transport,UnitedKingdom
+2020-03-23T00:00:00Z,C6, Stay at home requirements,UnitedKingdom
+2020-03-22T00:00:00Z,C7, Restrictions on internal movement,UnitedKingdom
+2020-03-20T00:00:00Z,E1, Income support,UnitedKingdom
+2020-04-09T00:00:00Z,E2, Debt/contract relief,UnitedKingdom
+2020-03-23T00:00:00Z,C2, Workplace closing,Australia
+2020-03-18T00:00:00Z,C3, Cancel public events,Australia
+2020-03-24T00:00:00Z,C4, Restrictions on gatherings,Australia
+2020-04-02T00:00:00Z,C5, Close public transport,Australia
+2020-03-24T00:00:00Z,C6, Stay at home requirements,Australia
+2020-04-02T00:00:00Z,C7, Restrictions on internal movement,Australia
+2020-03-12T00:00:00Z,E1, Income support,Australia
+2020-03-25T00:00:00Z,E2, Debt/contract relief,Australia
+2020-02-12T00:00:00Z,C1, School closing,China
+2020-02-03T00:00:00Z,C2, Workplace closing,China
+2020-02-16T00:00:00Z,C3, Cancel public events,China
+2020-01-22T00:00:00Z,C4, Restrictions on gatherings,China
+2020-05-10T00:00:00Z,C4, Restrictions on gatherings,China
+2020-03-19T00:00:00Z,C5, Close public transport,China
+2020-02-11T00:00:00Z,C6, Stay at home requirements,China
+2020-01-23T00:00:00Z,C7, Restrictions on internal movement,China
+2020-04-11T00:00:00Z,E1, Income support,China
+2020-05-21T00:00:00Z,E2, Debt/contract relief,China
+2020-03-18T00:00:00Z,C1, School closing,India
+2020-03-25T00:00:00Z,C2, Workplace closing,India
+2020-03-25T00:00:00Z,C3, Cancel public events,India
+2020-03-25T00:00:00Z,C4, Restrictions on gatherings,India
+2020-03-25T00:00:00Z,C5, Close public transport,India
+2020-03-25T00:00:00Z,C6, Stay at home requirements,India
+2020-03-25T00:00:00Z,C7, Restrictions on internal movement,India
+2020-03-26T00:00:00Z,E1, Income support,India
+2020-03-01T00:00:00Z,E2, Debt/contract relief,India
+2020-03-26T00:00:00Z,C1, School closing,Indonesia
+2020-03-15T00:00:00Z,C2, Workplace closing,Indonesia
+2020-03-23T00:00:00Z,C3, Cancel public events,Indonesia
+2020-04-07T00:00:00Z,C4, Restrictions on gatherings,Indonesia
+2020-03-23T00:00:00Z,C5, Close public transport,Indonesia
+2020-04-10T00:00:00Z,C6, Stay at home requirements,Indonesia
+2020-04-24T00:00:00Z,C7, Restrictions on internal movement,Indonesia
+2020-04-28T00:00:00Z,E1, Income support,Indonesia
+2020-04-01T00:00:00Z,E2, Debt/contract relief,Indonesia
+2020-03-02T00:00:00Z,C1, School closing,Japan
+2020-04-07T00:00:00Z,C2, Workplace closing,Japan
+2020-03-20T00:00:00Z,C3, Cancel public events,Japan
+2020-04-07T00:00:00Z,C6, Stay at home requirements,Japan
+2020-04-17T00:00:00Z,C7, Restrictions on internal movement,Japan
+2020-04-16T00:00:00Z,E1, Income support,Japan
+2020-03-16T00:00:00Z,E2, Debt/contract relief,Japan
+2020-03-18T00:00:00Z,C1, School closing,Malaysia
+2020-03-18T00:00:00Z,C2, Workplace closing,Malaysia
+2020-03-18T00:00:00Z,C3, Cancel public events,Malaysia
+2020-03-18T00:00:00Z,C4, Restrictions on gatherings,Malaysia
+2020-03-23T00:00:00Z,C5, Close public transport,Malaysia
+2020-03-18T00:00:00Z,C6, Stay at home requirements,Malaysia
+2020-03-18T00:00:00Z,C7, Restrictions on internal movement,Malaysia
+2020-04-06T00:00:00Z,E1, Income support,Malaysia
+2020-04-01T00:00:00Z,E2, Debt/contract relief,Malaysia
+2020-03-24T00:00:00Z,C1, School closing,NewZealand
+2020-03-25T00:00:00Z,C2, Workplace closing,NewZealand
+2020-03-26T00:00:00Z,C3, Cancel public events,NewZealand
+2020-03-26T00:00:00Z,C4, Restrictions on gatherings,NewZealand
+2020-03-26T00:00:00Z,C5, Close public transport,NewZealand
+2020-03-26T00:00:00Z,C6, Stay at home requirements,NewZealand
+2020-03-26T00:00:00Z,C7, Restrictions on internal movement,NewZealand
+2020-03-17T00:00:00Z,E1, Income support,NewZealand
+2020-03-24T00:00:00Z,E2, Debt/contract relief,NewZealand
+2020-03-15T00:00:00Z,C1, School closing,Philippines
+2020-03-18T00:00:00Z,C2, Workplace closing,Philippines
+2020-03-18T00:00:00Z,C3, Cancel public events,Philippines
+2020-03-18T00:00:00Z,C4, Restrictions on gatherings,Philippines
+2020-03-18T00:00:00Z,C5, Close public transport,Philippines
+2020-03-18T00:00:00Z,C6, Stay at home requirements,Philippines
+2020-03-18T00:00:00Z,C7, Restrictions on internal movement,Philippines
+2020-04-13T00:00:00Z,E1, Income support,Philippines
+2020-07-03T00:00:00Z,E1, Income support,Philippines
+2020-03-17T00:00:00Z,E2, Debt/contract relief,Philippines
+2020-02-24T00:00:00Z,C1, School closing,KoreaSouth
+2020-05-29T00:00:00Z,C1, School closing,KoreaSouth
+2020-03-22T00:00:00Z,C2, Workplace closing,KoreaSouth
+2020-05-29T00:00:00Z,C2, Workplace closing,KoreaSouth
+2020-04-03T00:00:00Z,C3, Cancel public events,KoreaSouth
+2020-05-29T00:00:00Z,C3, Cancel public events,KoreaSouth
+2020-04-04T00:00:00Z,C4, Restrictions on gatherings,KoreaSouth
+2020-05-29T00:00:00Z,C4, Restrictions on gatherings,KoreaSouth
+2020-03-16T00:00:00Z,C5, Close public transport,KoreaSouth
+2020-04-18T00:00:00Z,C6, Stay at home requirements,KoreaSouth
+2020-05-29T00:00:00Z,C6, Stay at home requirements,KoreaSouth
+2020-03-21T00:00:00Z,C7, Restrictions on internal movement,KoreaSouth
+2020-05-29T00:00:00Z,C7, Restrictions on internal movement,KoreaSouth
+2020-03-30T00:00:00Z,E1, Income support,KoreaSouth
+2020-03-17T00:00:00Z,E2, Debt/contract relief,KoreaSouth
+2020-04-03T00:00:00Z,C1, School closing,Singapore
+2020-04-07T00:00:00Z,C2, Workplace closing,Singapore
+2020-03-27T00:00:00Z,C3, Cancel public events,Singapore
+2020-04-08T00:00:00Z,C4, Restrictions on gatherings,Singapore
+2020-04-14T00:00:00Z,C5, Close public transport,Singapore
+2020-04-08T00:00:00Z,C6, Stay at home requirements,Singapore
+2020-04-08T00:00:00Z,C7, Restrictions on internal movement,Singapore
+2020-04-01T00:00:00Z,E1, Income support,Singapore
+2020-04-20T00:00:00Z,E2, Debt/contract relief,Singapore
+2020-03-18T00:00:00Z,C1, School closing,Thailand
+2020-03-26T00:00:00Z,C2, Workplace closing,Thailand
+2020-04-03T00:00:00Z,C3, Cancel public events,Thailand
+2020-04-03T00:00:00Z,C4, Restrictions on gatherings,Thailand
+2020-04-03T00:00:00Z,C5, Close public transport,Thailand
+2020-04-03T00:00:00Z,C6, Stay at home requirements,Thailand
+2020-03-26T00:00:00Z,C7, Restrictions on internal movement,Thailand
+2020-04-01T00:00:00Z,E1, Income support,Thailand
+2020-04-01T00:00:00Z,E2, Debt/contract relief,Thailand
+2020-03-12T00:00:00Z,C1, School closing,Brazil
+2020-03-19T00:00:00Z,C2, Workplace closing,Brazil
+2020-03-12T00:00:00Z,C3, Cancel public events,Brazil
+2020-03-21T00:00:00Z,C5, Close public transport,Brazil
+2020-05-05T00:00:00Z,C6, Stay at home requirements,Brazil
+2020-05-31T00:00:00Z,C7, Restrictions on internal movement,Brazil
+2020-04-02T00:00:00Z,E1, Income support,Brazil
+2020-03-17T00:00:00Z,E2, Debt/contract relief,Brazil
+2020-01-25T00:00:00Z,C1, School closing,HongKong_China
+2020-08-06T00:00:00Z,C2, Workplace closing,HongKong_China
+2020-03-23T00:00:00Z,C2, Workplace closing,HongKong_China
+2020-01-26T00:00:00Z,C3, Cancel public events,HongKong_China
+2020-03-29T00:00:00Z,C4, Restrictions on gatherings,HongKong_China
+2020-07-27T00:00:00Z,C4, Restrictions on gatherings,HongKong_China
+2020-02-08T00:00:00Z,C6, Stay at home requirements,HongKong_China
+2020-08-06T00:00:00Z,C7, Restrictions on internal movement,HongKong_China
+2020-02-26T00:00:00Z,E1, Income support,HongKong_China
+2020-02-26T00:00:00Z,E2, Debt/contract relief,HongKong_China
+2020-03-31T00:00:00Z,C1, School closing,Canada
+2020-04-01T00:00:00Z,C2, Workplace closing,Canada
+2020-03-31T00:00:00Z,C3, Cancel public events,Canada
+2020-03-16T00:00:00Z,C4, Restrictions on gatherings,Canada
+2020-03-31T00:00:00Z,C5, Close public transport,Canada
+2020-03-16T00:00:00Z,C6, Stay at home requirements,Canada
+2020-06-26T00:00:00Z,C7, Restrictions on internal movement,Canada
+2020-03-15T00:00:00Z,E1, Income support,Canada
+2020-05-25T00:00:00Z,E2, Debt/contract relief,Canada
+2020-03-23T00:00:00Z,C1, School closing,Mexico
+2020-03-26T00:00:00Z,C2, Workplace closing,Mexico
+2020-03-24T00:00:00Z,C3, Cancel public events,Mexico
+2020-03-30T00:00:00Z,C4, Restrictions on gatherings,Mexico
+2020-06-12T00:00:00Z,C5, Close public transport,Mexico
+2020-03-30T00:00:00Z,C6, Stay at home requirements,Mexico
+2020-03-30T00:00:00Z,C7, Restrictions on internal movement,Mexico
+2020-04-17T00:00:00Z,E1, Income support,Mexico
+2020-04-26T00:00:00Z,C1, School closing,UnitedStates
+2020-03-19T00:00:00Z,C2, Workplace closing,UnitedStates
+2020-03-01T00:00:00Z,C3, Cancel public events,UnitedStates
+2020-03-13T00:00:00Z,C4, Restrictions on gatherings,UnitedStates
+2020-08-29T00:00:00Z,C4, Restrictions on gatherings,UnitedStates
+2020-03-17T00:00:00Z,C5, Close public transport,UnitedStates
+2020-03-15T00:00:00Z,C6, Stay at home requirements,UnitedStates
+2020-03-14T00:00:00Z,C7, Restrictions on internal movement,UnitedStates
+2020-03-27T00:00:00Z,E1, Income support,UnitedStates
+2020-03-27T00:00:00Z,E2, Debt/contract relief,UnitedStates
